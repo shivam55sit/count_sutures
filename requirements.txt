@@ -1,8 +1,9 @@
-torch
-torchvision
-opencv-python
+opencv-python-headless
 numpy
 Pillow
+torch
+torchvision
 matplotlib
 scikit-image
-tqdm
+albumentations
+segmentation-models-pytorch
