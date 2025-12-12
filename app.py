@@ -207,4 +207,4 @@ elif option == "Batch Folder Prediction":
 
 
 st.markdown("---")
-st.write("Developed for Shivam & Satyam 🧵👁️")
+st.write("Developed by Shivam & Satyam 🧵👁️")
